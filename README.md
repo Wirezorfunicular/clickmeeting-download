@@ -86,3 +86,14 @@ Third-party software/service, all rights belong to the original authors and trad
 <sub>Third-party software/service, all rights belong to the original authors. Unofficial listing for ClickMeeting.</sub>
 
 </div>
+
+
+## More links
+
+- 🌐 **[Visit ClickMeeting on SOFTGIT](https://softgit.pro/p/clickmeeting)** — the full listing.
+- 📄 **[ClickMeeting web page](https://wirezorfunicular.github.io/clickmeeting-download/)** — standalone info page.
+- 🗂️ [More Developer tools software](https://softgit.pro/category/developer-tools-2)
+- 🏠 [SOFTGIT home](https://softgit.pro) · [All apps](https://softgit.pro/apps)
+- 🔒 [Verify a download (SHA-256)](https://softgit.pro/security)
+
+> Unofficial listing for ClickMeeting. Third-party software; all rights belong to the original authors.
